@@ -58,6 +58,7 @@ Our team has experience with a wide range of technologies and tools. Here’s a 
       <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
       <img align="center" alt="Post" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
       <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+      <img align="center" alt="Bash" hieght="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
       <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     </div>
 
