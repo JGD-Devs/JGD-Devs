@@ -33,7 +33,7 @@ We are open to freelance opportunities and collaborations. If you have a project
 
 ## Contributing
 
-We welcome contributions and collaboration. Please refer to our [CONTRIBUTING.md](#) file for guidelines on how to get involved.
+We welcome contributions and collaboration. Please refer to our [CONTRIBUTING.md](https://github.com/JGD-Devs/JGD-Devs/blob/main/CONTRIBUTING.md) file for guidelines on how to get involved.
 
 ## License
 
