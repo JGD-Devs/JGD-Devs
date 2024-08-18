@@ -10,9 +10,6 @@ We are a versatile team of three developers, each bringing our own strengths to 
 <p>
   <img src="https://github.com/midoriya0x00y.png" width="50" height="50" alt="Midoriya's Avatar"/> <strong><a href="https://github.com/midoriya0x00y" target="_blank">Midoriya</a></strong>: Focused on Backend Development and Security Engineering, with skills in Cybersecurity, PHP, Python, C/C++, and more.
 </p>
-<p>
-  <img src="https://github.com/Daniel-Centeno.png" width="50" height="50" alt="Daniel Centeno's Avatar"/> <strong><a href="https://github.com/Daniel-Centeno" target="_blank">Daniel Centeno</a></strong>: Specializes in Web Design and Frontend Development, known for creativity and problem-solving.
-</p>
 
 ## What We Do
 
@@ -75,10 +72,4 @@ Our team has experience with a wide range of technologies and tools. Here’s a 
   <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=midoriya0x00y&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midoriya0x00y&layout=compact&langs_count=16&theme=dracula"/>
-  </div>
-
-### Daniel Centeno
-  <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Centeno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Centeno&layout=compact&langs_count=16&theme=dracula"/>
   </div>
